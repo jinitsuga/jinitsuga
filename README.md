@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Agu! Currently learning Javascript for the most part, as well as  web development through The Odin Project.
+👋 Hi, I’m Agu! Currently learning Javascript for the most part, as well as  web development through The Odin Project.
 
 Always looking for coding friends to talk shop! - 📫 You can find me on Discord - Jin#6139
 
