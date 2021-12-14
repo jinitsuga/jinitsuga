@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Agu!
-- 👀 I’m interested in web and app development!
-- 🌱 I’m currently learning Javascript for the most part, as well as  web development through The Odin Project.
-- 💞️ I’m looking to collaborate on basically anything JS related, since it'll give me much needed extra experience with it :)
-- 📫 You can find me on Discord - Jin#6139
+- 👋 Hi, I’m Agu! Currently learning Javascript for the most part, as well as  web development through The Odin Project.
+
+Always looking for coding friends to talk shop! - 📫 You can find me on Discord - Jin#6139
 
 <!---
 jinitsuga/jinitsuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
