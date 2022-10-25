@@ -1,4 +1,4 @@
-👋 Hi, I’m Agu! Currently learning web development through The Odin Project.
+👋 Hi, I’m Agu! Self-taught front-end developer with the help of The Odin Project.
 
 Always looking for coding friends to talk shop! - 📫 You can find me on Discord - Jin#6139
 
