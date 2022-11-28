@@ -1,4 +1,4 @@
-👋 Hi, I’m Agu! Self-taught front-end developer with the help of The Odin Project.
+👋 Hi, I’m Agu! Self-taught front-end developer with the help of The Odin Project. Very detail-oriented, love thinking about UIs and providing a good UX.
 
 Always looking for coding friends to talk shop! - 📫 You can find me on Discord - Jin#6139
 
