@@ -18,7 +18,7 @@ Recently started contributing to Open Source. ❤
 
 
 
-#### Enjoy:
+#### 🙌 Enjoying:
 - The outside: ball, skating, running ⛅️
 - Chess ♜♞
 - Dota 2 and tea 🍵
