@@ -2,6 +2,29 @@
 
 Always looking for coding friends to talk shop! - 📫 You can find me on Discord - Jin#6139
 
+Recently started contributing to Open Source. ❤
+
+
+### √ Competent (but constantly learning) with:
+  - React
+  - JavaScript
+  - HTML&CSS
+  - DBs: Firebase & Mongo
+
+### 📝 Currently learning: 
+  - Node/Express
+  - TypeScript
+
+
+
+
+#### Enjoy:
+- The outside: ball, skating, running ⛅️
+- Chess ♜♞
+- Dota 2 and tea 🍵
+
+
+
 <!---
 jinitsuga/jinitsuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
