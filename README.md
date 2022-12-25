@@ -5,7 +5,7 @@ Always looking for coding friends to talk shop! - 📫 You can find me on Discor
 Recently started contributing to Open Source. ❤
 
 
-### √ Competent (but constantly learning) with:
+### √ Competent (and constantly learning) with:
   - React
   - JavaScript
   - HTML&CSS
