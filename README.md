@@ -8,7 +8,7 @@ Recently started contributing to Open Source. ❤
 ### √ Competent (and constantly learning) with:
   - React
   - JavaScript
-  - HTML&CSS
+  - HTML&CSS (Tailwind / styled-components)
   - DBs: Firebase & Mongo
 
 ### 📝 Currently learning: 
