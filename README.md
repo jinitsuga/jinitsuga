@@ -20,7 +20,7 @@ Recently started contributing to Open Source. ❤
 
 #### 🙌 Enjoying:
 - The outside: ball, skating, running ⛅️
-- Chess ♜♞
+
 - Dota 2, board games and tea 🍵
 
 
