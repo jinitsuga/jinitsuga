@@ -14,6 +14,7 @@ Recently started contributing to Open Source. ❤
 ### 📝 Currently learning: 
   - Node/Express
   - TypeScript
+  - Data Structures & Algorithms
 
 
 
