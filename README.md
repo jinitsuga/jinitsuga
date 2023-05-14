@@ -9,10 +9,11 @@ Recently started contributing to Open Source. ❤
   - React
   - JavaScript
   - HTML&CSS (Tailwind / styled-components)
-  - DBs: Firebase & Mongo
+  - DBs: MongoDB, Firebase
+  - Node/Express
 
 ### 📝 Currently learning: 
-  - Node/Express
+  - NextJS
   - TypeScript
   - Data Structures & Algorithms
 
