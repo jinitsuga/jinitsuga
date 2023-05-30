@@ -7,14 +7,14 @@ Recently started contributing to Open Source. ❤
 
 ### √ Competent (and constantly learning) with:
   - React
-  - JavaScript
+  - Typescript
   - HTML&CSS (Tailwind / styled-components)
   - DBs: MongoDB, Firebase
   - Node/Express
 
 ### 📝 Currently learning: 
   - NextJS
-  - TypeScript
+  - GoLang
   - Data Structures & Algorithms
 
 
