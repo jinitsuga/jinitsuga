@@ -14,7 +14,7 @@ Recently started contributing to Open Source. ❤
 
 ### 📝 Currently learning: 
   - NextJS
-  - GoLang
+  - Python
   - Data Structures & Algorithms
 
 
