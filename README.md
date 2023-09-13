@@ -1,4 +1,4 @@
-👋 Hi, I’m Agu! Self-taught developer, confident front-ender transitioning into fullstack!. Very detail-oriented, love thinking about UIs and UX.
+👋 Hi, I’m Agu! Self-taught developer, confident front-ender transitioning into fullstack!. Very detail-oriented, love thinking about UI/UX and systems.
 
 Always looking for coding friends to talk shop! - 📫 You can find me on Discord - Jin#6139
 
@@ -8,12 +8,13 @@ Recently started contributing to Open Source. ❤
 ### √ Competent (and constantly learning) with:
   - React
   - Typescript
+  - NextJS
   - HTML&CSS (Tailwind / styled-components)
   - MongoDB, Firebase
-  - Node/Express
+  - Nodejs/Express
 
 ### 📝 Currently learning: 
-  - NextJS
+  - Postgresql
   - Python
   - Data Structures & Algorithms
 
