@@ -1,6 +1,6 @@
 👋 Hi, I’m Agu! Self-taught developer, confident front-ender transitioning into fullstack!. Very detail-oriented, love thinking about UI/UX and systems.
 
-Always looking for coding friends to talk shop! - 📫 You can find me on Discord - Jin#6139
+Always looking for coding friends to talk shop! - 📫 You can find me on Discord: nitsugai
 
 Recently started contributing to Open Source. ❤
 
