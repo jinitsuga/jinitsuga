@@ -10,11 +10,11 @@ Always looking for coding friends to talk shop! - 📫 You can find me on Discor
   - Typescript
   - NextJS
   - HTML&CSS (Tailwind / styled-components)
+  - SQL
   - MongoDB, Firebase
   - Nodejs/Express
 
 ### 📝 Currently getting better at: 
-  - Postgresql / 
   - Python
   - Data Structures & Algorithms
 
