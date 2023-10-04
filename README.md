@@ -1,8 +1,8 @@
-👋 Hi, I’m Agu! Self-taught developer, confident front-ender transitioning into fullstack!. Very detail-oriented, love thinking about UI/UX and systems.
+👋 Hi, I’m Agu! English teacher turned self-taught dev, confident front-ender transitioning into fullstack!. Very detail-oriented, love thinking about UI/UX and systems.
 
 Always looking for coding friends to talk shop! - 📫 You can find me on Discord: nitsugai
 
-Recently started contributing to Open Source. ❤
+##### 💡Interests include: Open Source software, moving around (skating, basketball, paddle tennis) and both board and video games. 🛹 🕹️
 
 
 ### √ Competent (and constantly learning) with:
@@ -13,18 +13,13 @@ Recently started contributing to Open Source. ❤
   - MongoDB, Firebase
   - Nodejs/Express
 
-### 📝 Currently learning: 
-  - Postgresql
+### 📝 Currently getting better at: 
+  - Postgresql / 
   - Python
   - Data Structures & Algorithms
 
 
 
-
-#### 🙌 Enjoying:
-- The outside: ball, skating, running ⛅️
-
-- Dota 2, board games and tea 🍵
 
 
 
