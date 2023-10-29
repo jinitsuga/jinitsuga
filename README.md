@@ -1,8 +1,8 @@
 👋 Hi, I’m Agu! English teacher turned self-taught dev, confident front-ender transitioning into fullstack!. Very detail-oriented, love thinking about UI/UX and systems.
 
-Always looking for coding friends to talk shop! - 📫 You can find me on Discord: nitsugai
+ Always looking for coding friends to talk shop! - 📫 You can find me on Discord: nitsugai
 
-#### 💡Interests include: Open Source software, moving around (skating, basketball, paddle tennis) and both board and video games. 🛹 🕹️
+💡Interests include: Open Source software, moving around (skating, basketball, paddle tennis) and both board and video games. 🛹 🕹️
 
 
 ### √ Competent (and constantly learning) with:
