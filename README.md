@@ -16,6 +16,7 @@ Interests include: Open Source software, moving around (skating, basketball, pad
 
 ### 📝 Currently getting better at: 
   - Python
+  - React Native
   - Data Structures & Algorithms
 
 
