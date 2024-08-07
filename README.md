@@ -1,4 +1,4 @@
-Hi, I’m Agu. Self-taught dev, confident front-ender transitioning into fullstack!. Very detail-oriented, love thinking about UI/UX and systems.
+Hi, I’m Agu. Self-taught dev, detail-oriented, love thinking about UI/UX and systems.
 
 Always looking for coding friends to talk shop! - 📫 You can find me on Discord: nitsugai
 
