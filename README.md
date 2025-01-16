@@ -9,14 +9,13 @@ Interests include: Open Source software and random apps, moving around (skating,
   - React
   - Typescript
   - NextJS
+  - Nodejs
   - HTML&CSS (Tailwind / styled-components)
   - SQL
   - MongoDB, Firebase
-  - Nodejs/Express
 
 ### 📝 Currently getting better at: 
-  - Python
-  - React Native
+  - Golang
   - Data Structures & Algorithms
 
 
