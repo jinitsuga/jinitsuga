@@ -1,4 +1,4 @@
-Hi, I’m Agu. Developer dabbling in front and back, detail-oriented, love thinking about UI/UX and systems.
+Hi, I’m Agu. Developer, dabbling in front and back, detail-oriented, love thinking about UI/UX and systems.
 
 Always looking for coding friends to talk shop! - 📫 You can find me on Discord: nitsugai
 
