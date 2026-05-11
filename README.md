@@ -2,7 +2,7 @@ Hi, I’m Agu. Developer, dabbling in front and back, detail-oriented, love thin
 
 Always looking for coding friends to talk shop! - 📫 You can find me on Discord: nitsugai
 
-Interests include: Open Source software and random apps, moving around (skating, basketball, paddle tennis) and both board and video games. 🛹 🕹️
+Interests include: Open Source software and random apps, moving around (skating, basketball, paddle tennis) and board games. 🛹 🕹️
 
 
 ### √ Competent (and constantly learning) with:
